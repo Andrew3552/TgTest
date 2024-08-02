@@ -1,6 +1,7 @@
 // import { useEffect } from 'react';
 // const tg = window.Telegram.WebApp
 import "./App.css";
+import RootComponents from "./components/rootComponents/rootComponents";
 
 function App() {
   // useEffect(() => {
@@ -12,7 +13,8 @@ function App() {
   // }
   return (
     <div className="App">
-      <p className="text">привет підстрежися</p>
+      <RootComponents/>
+      {/* <p className="text">привет підстрежися</p> */}
     </div>
   );
 }
