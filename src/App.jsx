@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <RootComponents/>
-      {/* <p className="text">привет підстрежися</p> */}
+
     </div>
   );
 }

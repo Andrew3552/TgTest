@@ -1,16 +1,12 @@
-// .rootComponents {
-//     background-image: url('../../assets/BG.png');
-//     background-size: 100% 100%;
-//     height: 100vh;
-//     width: 100vw;
-// }
-
-.BG{
-    max-width:90%;
-    margin-bottom: 20px;
+.BG {
+  max-width: 90%;
+  margin-bottom: 20px;
 }
-.buttons__container{
-    display: flex;
-   justify-content: center;
-   gap: 60px;
+.buttons__container {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+}
+.hello{
+  font-size: 60px;
 }
