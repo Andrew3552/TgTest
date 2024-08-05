@@ -6,5 +6,11 @@
 // }
 
 .BG{
-    max-width:45%;
+    max-width:90%;
+    margin-bottom: 20px;
+}
+.buttons__container{
+    display: flex;
+   justify-content: center;
+   gap: 60px;
 }
