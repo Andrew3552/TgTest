@@ -17,8 +17,7 @@ export default function RootComponents() {
       <p className="hello">Hello my sweet girl</p>
       <img className="BG" src={BG} alt="BG" />
       <div className="buttons__container">
-        <Button onClick={handleConfetti} name={'Confetti'}>так, я згодна</Button>
-        {/* <Button ></Button> */}
+        <Button onClick={handleConfetti} name={'Confetti'}>НЯМ НЯМ</Button>
       </div>
     </div>
   );
